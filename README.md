@@ -25,14 +25,20 @@ Uma planilha em Excel completa para gerenciar lojas de pequeno e médio porte, i
 ### Menu Principal
 [![Menu Principal](link-para-imagem-menu)](https://github.com/tngfx84/Planilha-de-Gestao-Loja/blob/main/menu.PNG)
 
-### Registro de Vendas
-![Registro de Vendas](link-para-imagem-vendas)
+### Registro de Produtos
+[![Menu Principal](link-para-imagem-menu)](https://github.com/tngfx84/Planilha-de-Gestao-Loja/blob/main/produtos.PNG)
 
-> *Adicione imagens aqui caso tenha screenshots das abas principais da planilha.*
+### Registro de Vendedores
+[![Menu Principal](link-para-imagem-menu)](https://github.com/tngfx84/Planilha-de-Gestao-Loja/blob/main/vendedores.PNG)
+
+### Registro de Vendas
+[![Menu Principal](link-para-imagem-menu)](https://github.com/tngfx84/Planilha-de-Gestao-Loja/blob/main/vendas.PNG)
+
+### Consultas
+[![Menu Principal](link-para-imagem-menu)](https://github.com/tngfx84/Planilha-de-Gestao-Loja/blob/main/consultas.PNG)
 
 ## Tecnologias Usadas
-- **Microsoft Excel**: Fórmulas avançadas, tabelas dinâmicas e automação básica.
-- **Visual Basic for Applications (VBA)** (opcional): Para automações específicas (caso aplicável).
+- **Microsoft Excel**: Fórmulas avançadas e automação básica.
 
 ## Licença
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
